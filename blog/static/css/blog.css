@@ -1,13 +1,13 @@
 h1 a { 
       color: #98979C
-       font-family: 'Lobster';
+       font-family: "Courier New";
 }
 body {
     padding-left: 15px;
 }
 
 .page-header{
-      background-color: #9E90D4;
+      background-color: #90C3D4;
       margin-top: 0;
       padding: 20px 20px 20px 40px;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family:  'Lobster', cursive;
+    font-family:  'Lobster', italic;
 }
 
 .date {
